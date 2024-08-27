@@ -1,4 +1,4 @@
-<!-- Use <!-- YourCommment - -> (No space between - ->) -->
+<!-- YourCommment won't be visiable -->
 
 <!-- Headings -->
 #   Use #   for first  level heading
